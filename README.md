@@ -57,6 +57,14 @@ https://github.com/Mr-ARIFx/BloodDonorApp/releases/download/v1.0/app-debug.apk
 
 ---
 
+## Firebase Setup
+
+Add your own `google-services.json` file inside:
+
+app/google-services.json
+
+---
+
 ## 👨‍💻 Developer
 
 Md. Ariful Islam
