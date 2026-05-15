@@ -42,7 +42,12 @@ https://github.com/Mr-ARIFx/BloodDonorApp/releases/download/v1.0/app-debug.apk
 ---
 
 ## 📸 Screenshots
-Blood Donors App Screen Shot/registerPgae.png
+Blood Donors App Screen Shot/Opening.jpg
+Blood Donors App Screen Shot/login.jpg
+Blood Donors App Screen Shot/home.jpg
+Blood Donors App Screen Shot/addDonors.jpg
+Blood Donors App Screen Shot/searching.jpg
+Blood Donors App Screen Shot/firebase.png
 
 ---
 
