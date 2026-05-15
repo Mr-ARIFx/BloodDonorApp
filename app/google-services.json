@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328853033983",
+    "project_id": "blooddonors-fa755",
+    "storage_bucket": "blooddonors-fa755.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328853033983:android:a5af479edbe8fb1addcdca",
+        "android_client_info": {
+          "package_name": "com.example.blooddonor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuNbECG5MREUJhASzTmrSvQJDYi8-9-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

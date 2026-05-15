@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BloodDonor" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#C62828</item>
+        <item name="colorPrimaryDark">#8E0000</item>
+        <item name="colorAccent">#FF5F52</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.BloodDonor" parent="Base.Theme.BloodDonor" />
+</resources>
